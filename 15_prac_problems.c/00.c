@@ -1,0 +1,1 @@
+// Using Ternary // operator in case of if - else statements 

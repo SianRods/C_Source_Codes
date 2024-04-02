@@ -1,0 +1,7 @@
+/*
+printting pyramid pattern 
+      *
+    *   *
+  *   *    *
+*   *   *    *
+*/
